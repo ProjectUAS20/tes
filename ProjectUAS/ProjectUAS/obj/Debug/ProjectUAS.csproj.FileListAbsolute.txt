@@ -1,0 +1,16 @@
+C:\Users\ACER\Documents\smt4\pvisual\project\ProjectUAS\ProjectUAS\bin\Debug\ProjectUAS.exe.config
+C:\Users\ACER\Documents\smt4\pvisual\project\ProjectUAS\ProjectUAS\bin\Debug\ProjectUAS.exe
+C:\Users\ACER\Documents\smt4\pvisual\project\ProjectUAS\ProjectUAS\bin\Debug\ProjectUAS.pdb
+C:\Users\ACER\Documents\smt4\pvisual\project\ProjectUAS\ProjectUAS\obj\Debug\ProjectUAS.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\smt4\pvisual\project\ProjectUAS\ProjectUAS\obj\Debug\ProjectUAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\Documents\smt4\pvisual\project\ProjectUAS\ProjectUAS\obj\Debug\ProjectUAS.index.resources
+C:\Users\ACER\Documents\smt4\pvisual\project\ProjectUAS\ProjectUAS\obj\Debug\ProjectUAS.Properties.Resources.resources
+C:\Users\ACER\Documents\smt4\pvisual\project\ProjectUAS\ProjectUAS\obj\Debug\ProjectUAS.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\smt4\pvisual\project\ProjectUAS\ProjectUAS\obj\Debug\ProjectUAS.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\smt4\pvisual\project\ProjectUAS\ProjectUAS\obj\Debug\ProjectUAS.exe
+C:\Users\ACER\Documents\smt4\pvisual\project\ProjectUAS\ProjectUAS\obj\Debug\ProjectUAS.pdb
+C:\Users\ACER\Documents\smt4\pvisual\project\ProjectUAS\ProjectUAS\obj\Debug\ProjectUAS.FormHome.resources
+C:\Users\ACER\Documents\smt4\pvisual\project\ProjectUAS\ProjectUAS\obj\Debug\ProjectUAS.FormTransaksi.resources
+C:\Users\ACER\Documents\smt4\pvisual\project\ProjectUAS\ProjectUAS\obj\Debug\ProjectUAS.FormLaporan.resources
+C:\Users\ACER\Documents\smt4\pvisual\project\ProjectUAS\ProjectUAS\obj\Debug\ProjectUAS.FormDataBarang.resources
+C:\Users\ACER\Documents\smt4\pvisual\project\ProjectUAS\ProjectUAS\obj\Debug\ProjectUAS.FormTabelBarang.resources
